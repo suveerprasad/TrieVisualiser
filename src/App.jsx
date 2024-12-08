@@ -238,7 +238,7 @@ function App() {
       <div className="w-full max-w-4xl bg-white shadow-2xl rounded-xl overflow-hidden">
         <div className="p-6 bg-blue-50 border-b border-blue-100">
           <h1 className="text-3xl font-bold text-blue-800 text-center">
-            Interactive Trie Visualizer
+            Trie Visualizer
           </h1>
         </div>
 
